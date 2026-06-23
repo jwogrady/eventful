@@ -1,5 +1,6 @@
 ---
-
+// Foundation skeleton (Feature 1). The browse/filter/search view is Feature 4.
+const title = "Eventful";
 ---
 
 <html lang="en">
@@ -9,9 +10,13 @@
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>{title}</title>
 	</head>
 	<body>
-		<h1>Astro</h1>
+		<main>
+			<h1>{title}</h1>
+			<p>Self-updating view of upcoming live-music gigs across Houston.</p>
+			<p>Foundation is in place. Listings arrive in a later milestone feature.</p>
+		</main>
 	</body>
 </html>
