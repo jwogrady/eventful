@@ -17,7 +17,7 @@ afterAll(() => {
 });
 
 test("schema initializes with a recorded version", async () => {
-  expect(await db.schemaVersion()).toBe(1);
+  expect(await db.schemaVersion()).toBe(2);
 });
 
 test("all eight planned tables exist", async () => {
