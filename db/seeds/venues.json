@@ -1,0 +1,92 @@
+[
+  {
+    "id": "nrg-stadium",
+    "name": "NRG Stadium",
+    "venueClass": "Stadium",
+    "capacity": 72000,
+    "capacityDisplay": "72,000+",
+    "locationSector": "South Loop",
+    "sourcingSite": "nrgpark.com"
+  },
+  {
+    "id": "daikin-park",
+    "name": "Daikin Park",
+    "venueClass": "Stadium",
+    "capacity": 40000,
+    "capacityDisplay": "40,000+",
+    "locationSector": "Downtown",
+    "sourcingSite": "mlb.com"
+  },
+  {
+    "id": "toyota-center",
+    "name": "Toyota Center",
+    "venueClass": "Arena",
+    "capacity": 19000,
+    "capacityDisplay": "19,000",
+    "locationSector": "Downtown",
+    "sourcingSite": "toyotacenter.com"
+  },
+  {
+    "id": "cynthia-woods-mitchell-pavilion",
+    "name": "Cynthia Woods Mitchell Pavilion",
+    "venueClass": "Pavilion",
+    "capacity": 16500,
+    "capacityDisplay": "16,500",
+    "locationSector": "The Woodlands",
+    "sourcingSite": "woodlandscenter.org"
+  },
+  {
+    "id": "smart-financial-centre",
+    "name": "Smart Financial Centre",
+    "venueClass": "Arena",
+    "capacity": 6400,
+    "capacityDisplay": "6,400",
+    "locationSector": "Sugar Land",
+    "sourcingSite": "smartfinancialcentre.net"
+  },
+  {
+    "id": "713-music-hall",
+    "name": "713 Music Hall",
+    "venueClass": "Music Hall",
+    "capacity": 5000,
+    "capacityDisplay": "5,000",
+    "locationSector": "Downtown",
+    "sourcingSite": "713musichall.com"
+  },
+  {
+    "id": "bayou-music-center",
+    "name": "Bayou Music Center",
+    "venueClass": "Music Hall",
+    "capacity": 3700,
+    "capacityDisplay": "3,700",
+    "locationSector": "Downtown",
+    "sourcingSite": "bayoumusiccenter.com"
+  },
+  {
+    "id": "white-oak-music-hall-the-lawn",
+    "name": "White Oak Music Hall (The Lawn)",
+    "venueClass": "Pavilion / Lawn",
+    "capacity": 3000,
+    "capacityDisplay": "3,000",
+    "locationSector": "Near Northside",
+    "sourcingSite": "whiteoakmusichall.com"
+  },
+  {
+    "id": "jones-hall",
+    "name": "Jones Hall",
+    "venueClass": "Theater",
+    "capacity": 3000,
+    "capacityDisplay": "3,000",
+    "locationSector": "Downtown",
+    "sourcingSite": "houstonfirsttheaters.com"
+  },
+  {
+    "id": "the-hobby-center",
+    "name": "The Hobby Center",
+    "venueClass": "Theater",
+    "capacity": 2650,
+    "capacityDisplay": "2,650",
+    "locationSector": "Downtown",
+    "sourcingSite": "thehobbycenter.org"
+  }
+]
