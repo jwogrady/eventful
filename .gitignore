@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Bun
+bun.lockb.*
+.bun/
+
+# Build output
+dist/
+.astro/
+
+# DuckDB database files and snapshots (data, not source)
+*.duckdb
+*.duckdb.wal
+data/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,36 @@
+name: Feature
+description: A shippable feature with a user-facing outcome and verifiable acceptance criteria.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Outcome
+      description: The user-facing outcome — what becomes true when this ships.
+      placeholder: From the seed venues, upcoming gigs appear in the view without manual entry.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Verifiable checks. These are the definition of done for review.
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Constraints inherited from the problem statement / ADRs.
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Links to ADRs, dependencies on other issues, open questions.
+    validations:
+      required: false
