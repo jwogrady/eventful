@@ -47,6 +47,31 @@ bun run db:seed    # load the 10 Houston seed venues (idempotent)
 bun run db:smoke   # prove the Bun↔DuckDB binding end to end (in-memory)
 ```
 
+### Ingestion
+
+A per-venue adapter pipeline fetches each source, stores a timestamped raw
+snapshot, extracts events (official feed/API → JSON-LD → HTML, in that order),
+and idempotently upserts them — never touching curation
+([ADR-0004](docs/adr/0004-extraction-per-venue-adapters-feeds-first.md),
+[ADR-0005](docs/adr/0005-ingestion-pipeline-and-breakage-detection.md)).
+Adapters live in `src/lib/ingest/adapters/`; The Woodlands (Cynthia Woods
+Mitchell Pavilion) is the first.
+
+```bash
+bun run ingest     # run every adapter once; ensures schema + seed venues first
+```
+
+Each run records per-source metrics and a health verdict (`ok` / `degraded` /
+`broken`) in `ingest_runs`; the command exits non-zero if any source is broken,
+so a scheduler can detect breakage. Run it on a schedule with system cron
+([ADR-0005](docs/adr/0005-ingestion-pipeline-and-breakage-detection.md)) — e.g.
+hourly, logging output for review:
+
+```cron
+# Eventful ingestion — hourly (adjust the repo path and Bun location)
+0 * * * * cd /path/to/eventful && /home/you/.bun/bin/bun run ingest >> data/ingest.log 2>&1
+```
+
 ## Scope
 
 In: live-music gigs from a curated set of Houston venues, refreshed on a

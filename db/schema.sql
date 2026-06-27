@@ -16,6 +16,7 @@ CREATE SEQUENCE IF NOT EXISTS seq_raw_snapshots START 1;
 CREATE SEQUENCE IF NOT EXISTS seq_event_sources START 1;
 CREATE SEQUENCE IF NOT EXISTS seq_tags START 1;
 CREATE SEQUENCE IF NOT EXISTS seq_notes START 1;
+CREATE SEQUENCE IF NOT EXISTS seq_ingest_runs START 1;
 
 -- Schema metadata (records the applied schema version).
 CREATE TABLE IF NOT EXISTS schema_meta (
@@ -110,4 +111,25 @@ CREATE TABLE IF NOT EXISTS notes (
   body       TEXT NOT NULL,
   created_at TIMESTAMP NOT NULL DEFAULT now(),
   updated_at TIMESTAMP NOT NULL DEFAULT now()
+);
+
+-- ── Ingestion telemetry ─────────────────────────────────────────────────────
+-- One row per source per pipeline run (ADR-0005): the metrics and the health
+-- verdict. The latest row for a venue is its current health; the 0.2.0 review
+-- surface reads this. Append-only — runs accumulate as history.
+
+CREATE TABLE IF NOT EXISTS ingest_runs (
+  id              BIGINT PRIMARY KEY DEFAULT nextval('seq_ingest_runs'),
+  venue_id        TEXT NOT NULL REFERENCES venues(id),
+  source_url      TEXT NOT NULL,
+  source_kind     TEXT,                            -- winning extractor: feed | jsonld | html
+  started_at      TIMESTAMP NOT NULL DEFAULT now(),
+  finished_at     TIMESTAMP,
+  http_status     INTEGER,
+  events_found    INTEGER NOT NULL DEFAULT 0,
+  events_upserted INTEGER NOT NULL DEFAULT 0,
+  fields_filled   TEXT,                            -- JSON: per-field fill counts
+  health          TEXT NOT NULL,                   -- ok | degraded | broken
+  error           TEXT,
+  note            TEXT
 );

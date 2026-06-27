@@ -1,0 +1,946 @@
+{
+ "pages": [
+  {
+   "id": "7725",
+   "path": "/events/2026/performing-arts/hso-princess-bride",
+   "title": "The Princess Bride - Film with Live Orchestra",
+   "name": null,
+   "description": "Free Princess Bride Film & Orchestra Houston Symphony show on June 23, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_princessbrid_1777061836.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-06-23T20:00:00-05:00",
+    "event_date": "2026-06-23",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7767",
+   "path": "/events/2026/alley-theatre-day-camp",
+   "title": "Alley Theatre Imagination Lab Camp",
+   "name": null,
+   "description": "",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_playmakers_lab_26_1780928886.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-06-25T09:00:00-05:00",
+    "event_date": "2026-06-25",
+    "event_time": "09:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7663",
+   "path": "/events/2026/hilary-duff",
+   "title": "Hilary Duff",
+   "name": null,
+   "description": "Grab tickets for Hilary Duff live show at The Pavilion June 27, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_hilaryduff_1770840231.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-06-27T19:00:00-05:00",
+    "event_date": "2026-06-27",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/hilary-duff-the-lucky-me-tour-the-woodlands-texas-06-27-2026/event/3A006446F41EA3C7"
+   }
+  },
+  {
+   "id": "7726",
+   "path": "/events/2026/performing-arts/hso-star-spangled-salute",
+   "title": "Star-Spangled Salute",
+   "name": null,
+   "description": "Free Star-Spangled Salute Houston Symphony show on July 3, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_sss_1777063273.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-07-03T20:00:00-05:00",
+    "event_date": "2026-07-03",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7713",
+   "path": "/events/2026/outlaw-music-festival",
+   "title": "Outlaw Music Festival",
+   "name": null,
+   "description": "Grab tickets for Outlaw Music Festival live show at The Pavilion July 5, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_outlaw_1774538446.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-07-05T14:00:00-05:00",
+    "event_date": "2026-07-05",
+    "event_time": "14:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/outlaw-festival-willie-nelson-wilco-sheryl-the-woodlands-texas-07-05-2026/event/3A00647797D7628B"
+   }
+  },
+  {
+   "id": "7743",
+   "path": "/events/2026/performing-arts/encanto",
+   "title": "Movie & Dance: Encanto with Live Ballet Folklórico",
+   "name": null,
+   "description": "Free Encanto with Live Ballet Folklorico show on July 10, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_encanto_1777063390.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-07-10T19:30:00-05:00",
+    "event_date": "2026-07-10",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7768",
+   "path": "/events/2026/alley-theatre-day-camp-july",
+   "title": "Alley Theatre Imagination Lab Camp - July",
+   "name": null,
+   "description": "",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_playmakers_lab_26_1780928886.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-07-14T08:00:00-05:00",
+    "event_date": "2026-07-14",
+    "event_time": "08:00:00",
+    "display_time": "0",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7748",
+   "path": "/events/2026/performing-arts/wso-game-on",
+   "title": "Game On! A Symphony of Sport",
+   "name": null,
+   "description": "Free Game On! The Woodlands Symphony Orchestra show on July 17, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_gameon_1777066657.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-07-15T19:30:00-05:00",
+    "event_date": "2026-07-15",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7662",
+   "path": "/events/2026/flatland-cavalry",
+   "title": "Flatland Cavalry",
+   "name": null,
+   "description": "Grab tickets for Flatland Cavalry live show at The Pavilion July 18, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_flatland2_1770996607.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-07-18T19:30:00-05:00",
+    "event_date": "2026-07-18",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/flatland-cavalry-work-of-heart-tour-the-woodlands-texas-07-18-2026/event/3A00644BE087E93E"
+   }
+  },
+  {
+   "id": "7744",
+   "path": "/events/2026/performing-arts/hso-billy-joel-elton-john",
+   "title": "The Music of Billy Joel & Elton John starring Michael Cavanaugh",
+   "name": null,
+   "description": "Free The Music of Billy Joel & Elton John Houston Symphony show on July 21, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_billy_elton_1777063679.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-07-21T20:00:00-05:00",
+    "event_date": "2026-07-21",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7702",
+   "path": "/events/2026/coral-reefer-band",
+   "title": "Jimmy Buffett's Coral Reefer Band",
+   "name": null,
+   "description": "Grab tickets for Jimmy Buffett's Coral Reefer Band live show at The Pavilion July 24, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_coral2_1773669843.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-07-24T20:00:00-05:00",
+    "event_date": "2026-07-24",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/margaritaville-presents-jimmy-buffetts-coral-reefer-the-woodlands-texas-07-24-2026/event/3A00646B4D92FB93"
+   }
+  },
+  {
+   "id": "7647",
+   "path": "/events/2026/motionless-in-white",
+   "title": "Motionless In White",
+   "name": null,
+   "description": "Grab tickets for Motionless In White live show at The Pavilion July 25, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_motionlessin_1770129873.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-07-25T18:30:00-05:00",
+    "event_date": "2026-07-25",
+    "event_time": "18:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/motionless-in-white-the-sweat-and-the-woodlands-texas-07-25-2026/event/3A00643EDE3944FA"
+   }
+  },
+  {
+   "id": "7635",
+   "path": "/events/2026/john-mellencamp",
+   "title": "John Mellencamp",
+   "name": null,
+   "description": "Grab tickets for John Mellencamp live show at The Pavilion August 6, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_john_mellen_1768402185.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-06T20:00:00-05:00",
+    "event_date": "2026-08-06",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-the-woodlands-texas-08-06-2026/event/3A00642CBC329A7C"
+   }
+  },
+  {
+   "id": "7636",
+   "path": "/events/2026/toto",
+   "title": "TOTO + Christopher Cross + The Romantics",
+   "name": null,
+   "description": "Grab tickets for TOTO live show at The Pavilion August 7, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_toto_1764879535.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-07T18:45:00-05:00",
+    "event_date": "2026-08-07",
+    "event_time": "18:45:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/toto-christopher-cross-the-romantics-the-woodlands-texas-08-07-2026/event/3A006385AC538B6D"
+   }
+  },
+  {
+   "id": "7643",
+   "path": "/events/2026/black-crowes-and-whiskey-myers",
+   "title": "The Black Crowes & Whiskey Myers",
+   "name": null,
+   "description": "Grab tickets for The Black Crowes & Whiskey Myers live show at The Pavilion August 8th, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_tbc_wm_1769529059.png",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-08T18:30:00-05:00",
+    "event_date": "2026-08-08",
+    "event_time": "18:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-the-woodlands-texas-08-08-2026/event/3A00643BAD3398BE"
+   }
+  },
+  {
+   "id": "7642",
+   "path": "/events/2026/neyo-akon",
+   "title": "NE-YO & AKON",
+   "name": null,
+   "description": "Grab tickets for NE-YO & AKON live show at The Pavilion August 9th, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_ne_yo_akon_1769552432.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-09T20:00:00-05:00",
+    "event_date": "2026-08-09",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/neyo-akon-nights-like-this-tour-the-woodlands-texas-08-09-2026/event/3A006439EF16AB8B"
+   }
+  },
+  {
+   "id": "7628",
+   "path": "/events/2026/train",
+   "title": "TRAIN",
+   "name": null,
+   "description": "Grab tickets for Train live show at The Pavilion August 14, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_train_1762786436.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-14T18:45:00-05:00",
+    "event_date": "2026-08-14",
+    "event_time": "18:45:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-the-woodlands-texas-08-14-2026/event/3A006364986282A1"
+   }
+  },
+  {
+   "id": "7634",
+   "path": "/events/2026/chicago-styx",
+   "title": "Chicago & Styx",
+   "name": null,
+   "description": "Grab tickets for Chicago & Styx live show at The Pavilion August 20, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_chicago_s_1764107131.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-20T19:00:00-05:00",
+    "event_date": "2026-08-20",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/chicago-styx-the-windy-cities-tour-the-woodlands-texas-08-20-2026/event/3A006379AA337B02"
+   }
+  },
+  {
+   "id": "7664",
+   "path": "/events/2026/santana-and-the-doobie-brothers",
+   "title": "Santana & The Doobie Brothers",
+   "name": null,
+   "description": "Grab tickets for Santana & The Doobie Brother live show at The Pavilion August 21, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_santana_1771336933.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-21T19:00:00-05:00",
+    "event_date": "2026-08-21",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-the-woodlands-texas-08-21-2026/event/3A00644DB1F63A4D"
+   }
+  },
+  {
+   "id": "7711",
+   "path": "/events/2026/311-dirty-heads",
+   "title": "311 & Dirty Heads",
+   "name": null,
+   "description": "Grab tickets for 311 & Dirty Heads live show at The Pavilion August 23, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_311_dh_1774272189.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-23T17:30:00-05:00",
+    "event_date": "2026-08-23",
+    "event_time": "17:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/311-and-dirty-heads-so-glad-the-woodlands-texas-08-23-2026/event/3A006474A8C5AE35"
+   }
+  },
+  {
+   "id": "7632",
+   "path": "/events/2026/lynyrd-skynyrd-foreigner",
+   "title": "Lynyrd Skynyrd & Foreigner",
+   "name": null,
+   "description": "Grab tickets for Lynyrd Skynyrd and Foreigner live show at The Pavilion August 27, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_lynyrd_skynyrd_foreigner_1763156567.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-27T18:30:00-05:00",
+    "event_date": "2026-08-27",
+    "event_time": "18:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/lynyrd-skynyrd-x-foreigner-double-trouble-the-woodlands-texas-08-27-2026/event/3A00636CDB00F721"
+   }
+  },
+  {
+   "id": "7626",
+   "path": "/events/2026/jack-johnson",
+   "title": "Jack Johnson",
+   "name": null,
+   "description": "Grab tickets for Jack Johnson live show at The Pavilion August 28, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_jack_johnson_1762205542.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-28T19:30:00-05:00",
+    "event_date": "2026-08-28",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-the-woodlands-texas-08-28-2026/event/3A006363F24CE2CA"
+   }
+  },
+  {
+   "id": "7650",
+   "path": "/events/2026/buddy-guy",
+   "title": "Buddy Guy Blues Festival",
+   "name": null,
+   "description": "Grab tickets for Buddy Guy Blues Festival live show at The Pavilion August 29, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_buddyguy_1770677962.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-29T18:00:00-05:00",
+    "event_date": "2026-08-29",
+    "event_time": "18:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/buddy-guy-blues-festival-the-woodlands-texas-08-29-2026/event/3A0064498B905093"
+   }
+  },
+  {
+   "id": "7778",
+   "path": "/events/2026/el-bueno-la-mala-y-el-feo-fest",
+   "title": "El Bueno La Mala y El Feo Fest",
+   "name": null,
+   "description": "Grab tickets for El Bueno La Mala y El Feo Fest live show at The Pavilion August 30, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_uforia_1781749383.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-08-30T16:00:00-05:00",
+    "event_date": "2026-08-30",
+    "event_time": "16:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/el-bueno-la-mala-y-el-the-woodlands-texas-08-30-2026/event/3A0064D0D222D64F"
+   }
+  },
+  {
+   "id": "7759",
+   "path": "/events/2026/josh-groban",
+   "title": "Josh Groban",
+   "name": null,
+   "description": "Grab tickets for Josh Groban live show at The Pavilion September 3, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_josh_groban_1778507749.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-03T19:30:00-05:00",
+    "event_date": "2026-09-03",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/josh-groban-stage-screen-and-symphony-the-woodlands-texas-09-03-2026/event/3A0064A8BC301ECD"
+   }
+  },
+  {
+   "id": "7772",
+   "path": "/events/2026/zoe",
+   "title": "ZOÉ",
+   "name": null,
+   "description": "Grab tickets for ZOÉ live show at The Pavilion September 5, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_zoe_1780073060.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-05T20:00:00-05:00",
+    "event_date": "2026-09-05",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/zoe-memorex-rexsexex-mas-the-woodlands-texas-09-05-2026/event/3A0064BBD9BF2E5E"
+   }
+  },
+  {
+   "id": "7745",
+   "path": "/events/2026/performing-arts/hso-when-instruments-roamed-the-earth",
+   "title": "When Instruments Roamed the Earth",
+   "name": null,
+   "description": "Free When Instruments Roamed the Earth Houston Symphony show on September 9, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_wirte_1777065995.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-09-09T19:30:00-05:00",
+    "event_date": "2026-09-09",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7633",
+   "path": "/events/2026/motley-crue",
+   "title": "The Return Of The Carnival Of Sins: Mötley Crüe",
+   "name": null,
+   "description": "Grab tickets for Motley Crue's live show at The Pavilion September 11, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_mo_tley_cru_e26_1763394572.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-11T18:30:00-05:00",
+    "event_date": "2026-09-11",
+    "event_time": "18:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/the-return-of-the-carnival-of-the-woodlands-texas-09-11-2026/event/3A00636ED352375C"
+   }
+  },
+  {
+   "id": "7770",
+   "path": "/events/2026/kehlani",
+   "title": "Kehlani",
+   "name": null,
+   "description": "Grab tickets for Kehlani live show at The Pavilion September 13, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_kehlani_1779814366.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-13T18:30:00-05:00",
+    "event_date": "2026-09-13",
+    "event_time": "18:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-the-woodlands-texas-09-13-2026/event/3A0064B63EA1775B"
+   }
+  },
+  {
+   "id": "7685",
+   "path": "/events/2026/empire-of-the-sun",
+   "title": "Empire of the Sun",
+   "name": null,
+   "description": "Grab tickets for Empire of the Sun live show at The Pavilion September 24, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_empire_1772751083.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-24T19:00:00-05:00",
+    "event_date": "2026-09-24",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/empire-of-the-sun-ask-that-the-woodlands-texas-09-24-2026/event/3A006469B109A549"
+   }
+  },
+  {
+   "id": "7716",
+   "path": "/events/2026/babymetal",
+   "title": "BABYMETAL",
+   "name": null,
+   "description": "Grab tickets for BABYMETAL live show at The Pavilion September 25, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_babymetal_1774968657.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-25T19:20:00-05:00",
+    "event_date": "2026-09-25",
+    "event_time": "19:20:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/babymetal-world-tour-2026-the-woodlands-texas-09-25-2026/event/3A00647BEDDA7579"
+   }
+  },
+  {
+   "id": "7769",
+   "path": "/events/2026/roxette",
+   "title": "Roxette",
+   "name": null,
+   "description": "Grab tickets for Roxette live show at The Pavilion September 26, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_roxette_1779795745.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-26T18:30:00-05:00",
+    "event_date": "2026-09-26",
+    "event_time": "18:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/roxette-40th-anniversary-tour-2026-the-woodlands-texas-09-26-2026/event/3A0064B5F30F7914"
+   }
+  },
+  {
+   "id": "7638",
+   "path": "/events/2026/five-finger-death-punch",
+   "title": "Five Finger Death Punch",
+   "name": null,
+   "description": "Grab tickets for Five Finger Death Punch live show at The Pavilion September 27, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_5fdp2_5fdp2_1768317192.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-09-27T18:45:00-05:00",
+    "event_date": "2026-09-27",
+    "event_time": "18:45:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/five-finger-death-punch-the-woodlands-texas-09-27-2026/event/3A006429DFD4B19D"
+   }
+  },
+  {
+   "id": "7746",
+   "path": "/events/2026/performing-arts/wso-dead-symphony",
+   "title": "Dead Symphony: The Music of Grateful Dead and More",
+   "name": null,
+   "description": "Free Dead Symphony - The Woodlands Symphony Orchestra show on September 29, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_deadsymph_1777066234.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-09-29T19:30:00-05:00",
+    "event_date": "2026-09-29",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7666",
+   "path": "/events/2026/mumford-and-sons",
+   "title": "Mumford & Sons",
+   "name": null,
+   "description": "Grab tickets for Mumford & Sons live show at The Pavilion October 1, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_mumford_1771542190.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-01T19:30:00-05:00",
+    "event_date": "2026-10-01",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/mumford-sons-prizefighter-tour-the-woodlands-texas-10-01-2026/event/3A006451E3E4A15F"
+   }
+  },
+  {
+   "id": "7756",
+   "path": "/events/2026/boz-scaggs",
+   "title": "Boz Scaggs",
+   "name": null,
+   "description": "Grab tickets for Boz Scaggs live show at The Pavilion October 2, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_bozscaggs_1778000174.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-02T19:00:00-05:00",
+    "event_date": "2026-10-02",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/boz-scaggs-rhythm-review-2026-the-woodlands-texas-10-02-2026/event/3A00649EF17FB3EB"
+   }
+  },
+  {
+   "id": "7712",
+   "path": "/events/2026/tlc-salt-n-pepa",
+   "title": "TLC & Salt-N-Pepa",
+   "name": null,
+   "description": "Grab tickets for TLC & Salt-N-Pepa live show at The Pavilion October 4, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_tlc_snp_1774270176.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-04T19:30:00-05:00",
+    "event_date": "2026-10-04",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/tlc-saltnpepa-with-en-vogue-its-the-woodlands-texas-10-04-2026/event/3A006475BD52C681"
+   }
+  },
+  {
+   "id": "7760",
+   "path": "/events/2026/brad-paisley",
+   "title": "Brad Paisley",
+   "name": null,
+   "description": "Grab tickets for Brad Paisley live show at The Pavilion October 8, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_bradpaisley_1778500406.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-08T19:30:00-05:00",
+    "event_date": "2026-10-08",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/brad-paisley-live-the-woodlands-texas-10-08-2026/event/3A0064A8BA2218A2"
+   }
+  },
+  {
+   "id": "7758",
+   "path": "/events/2026/hayley-williams",
+   "title": "Hayley Williams",
+   "name": null,
+   "description": "Grab tickets for Hayley Williams live show at The Pavilion October 9, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_hayleywill_1778107163.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-09T19:00:00-05:00",
+    "event_date": "2026-10-09",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/the-hayley-williams-show-the-woodlands-texas-10-09-2026/event/3A0064A6BE70148E"
+   }
+  },
+  {
+   "id": "7665",
+   "path": "/events/2026/breaking-benjamin",
+   "title": "Breaking Benjamin",
+   "name": null,
+   "description": "Grab tickets for Breaking Benjamin live show at The Pavilion October 10, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_breaking2_1771448693.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-10T18:00:00-05:00",
+    "event_date": "2026-10-10",
+    "event_time": "18:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/breaking-benjamin-the-woodlands-texas-10-10-2026/event/3A00644DCD7C9AD7"
+   }
+  },
+  {
+   "id": "7773",
+   "path": "/events/2026/bryson-tiller",
+   "title": "Bryson Tiller",
+   "name": null,
+   "description": "Grab tickets for Bryson Tiller live show at The Pavilion October 15, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_brysontiller_1780073270.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-15T19:30:00-05:00",
+    "event_date": "2026-10-15",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-the-woodlands-texas-10-15-2026/event/3A0064BDA335AC45"
+   }
+  },
+  {
+   "id": "7646",
+   "path": "/events/2026/staind",
+   "title": "Staind",
+   "name": null,
+   "description": "Grab tickets for Staind live show at The Pavilion October 17, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_staind_1770130150.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-17T18:00:00-05:00",
+    "event_date": "2026-10-17",
+    "event_time": "18:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/staind-break-the-cycle-25th-anniversary-the-woodlands-texas-10-17-2026/event/3A00643EB4D5D528"
+   }
+  },
+  {
+   "id": "7747",
+   "path": "/events/2026/performing-arts/hocus-pocus-pops",
+   "title": "Hocus Pocus Pops",
+   "name": null,
+   "description": "Free Hocus Pocus Pops show on October 23, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_hpp_1777066461.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-10-23T19:30:00-05:00",
+    "event_date": "2026-10-23",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7629",
+   "path": "/events/2026/three-days-grace",
+   "title": "Three Days Grace",
+   "name": null,
+   "description": "Grab tickets for Three Days Grace live show at The Pavilion October 25, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_three_days__1762786466.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-25T19:00:00-05:00",
+    "event_date": "2026-10-25",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-the-woodlands-texas-10-25-2026/event/3A006364BCEEA779"
+   }
+  },
+  {
+   "id": "7761",
+   "path": "/events/2026/mercyme",
+   "title": "MercyMe",
+   "name": null,
+   "description": "Grab tickets for MercyMe live show at The Pavilion October 31, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_mercyme_1778646762.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-10-31T19:00:00-05:00",
+    "event_date": "2026-10-31",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-the-woodlands-texas-10-31-2026/event/3A0064A587A967D1"
+   }
+  },
+  {
+   "id": "7757",
+   "path": "/events/2026/treaty-oak-revival",
+   "title": "Treaty Oak Revival",
+   "name": null,
+   "description": "Grab tickets for Treaty Oak Revival live show at The Pavilion November 13, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_treatyoak_1778158532.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-11-13T19:00:00-06:00",
+    "event_date": "2026-11-13",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/treaty-oak-revival-west-texas-degenerate-the-woodlands-texas-11-13-2026/event/3A0064A5858D635A"
+   }
+  },
+  {
+   "id": "7749",
+   "path": "/events/2026/performing-arts/holly-jolly-jingle",
+   "title": "Holly Jolly Jingle",
+   "name": null,
+   "description": "Free Holly Jolly Jingle show on December 3, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_hjj_1777066882.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-12-03T19:00:00-06:00",
+    "event_date": "2026-12-03",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7715",
+   "path": "/events/2026/kali-uchis",
+   "title": "Kali Uchis",
+   "name": null,
+   "description": "Grab tickets for Kali Uchis live show at The Pavilion June 18, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_kaliuchis_1774882771.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-06-18T19:00:00-05:00",
+    "event_date": "2026-06-18",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/kali-uchis-for-the-girls-tour-the-woodlands-texas-06-18-2026/event/3A006479B02AC059"
+   }
+  },
+  {
+   "id": "7724",
+   "path": "/events/2026/performing-arts/hso-journey",
+   "title": "The Music of Journey",
+   "name": null,
+   "description": "Free Music of Journey Houston Symphony show on June 17, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_tmojourney_1777061868.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-06-17T20:00:00-05:00",
+    "event_date": "2026-06-17",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7649",
+   "path": "/events/2026/taylorville",
+   "title": "Taylorville",
+   "name": null,
+   "description": "Grab tickets for Taylorville live show at The Pavilion June 13, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_taylorville_1770650960.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-06-13T20:00:00-05:00",
+    "event_date": "2026-06-13",
+    "event_time": "20:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/taylorville-a-tribute-to-taylor-swift-the-woodlands-texas-06-13-2026/event/3A006449897E4C84"
+   }
+  },
+  {
+   "id": "7741",
+   "path": "/events/2026/performing-arts/lilo-and-stitch",
+   "title": "Movie & Dance: Lilo & Stitch with Live Polynesian Dance",
+   "name": null,
+   "description": "Free Lilo & Stitch with Live Polynesian Dance show on June 5, 2026 at The Pavilion.",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_lilo_stitch_1777044713.jpg",
+   "pagetype": "event",
+   "tag": "Performing-Arts",
+   "event": {
+    "at": "2026-06-05T19:30:00-05:00",
+    "event_date": "2026-06-05",
+    "event_time": "19:30:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": ""
+   }
+  },
+  {
+   "id": "7645",
+   "path": "/events/2026/godsmack",
+   "title": "Godsmack",
+   "name": null,
+   "description": "Grab tickets for Godsmack live show at The Pavilion May 30, 2026!",
+   "ogImage": "https://s3.dualstack.us-east-1.amazonaws.com/busites_www/cynthiawoods/pages/meta/1/1/web_background_godsmack_1770044253.jpg",
+   "pagetype": "event",
+   "tag": "Events",
+   "event": {
+    "at": "2026-05-30T19:00:00-05:00",
+    "event_date": "2026-05-30",
+    "event_time": "19:00:00",
+    "display_time": "1",
+    "timezone": "America/Chicago",
+    "ticket_url": "https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-the-woodlands-texas-05-30-2026/event/3A00643DF82B1B08"
+   }
+  }
+ ],
+ "articles": [],
+ "events": [],
+ "navs": [],
+ "config": {},
+ "galleries": [],
+ "forms": []
+}
