@@ -1,0 +1,48 @@
+ticketmaster
+
+How would you categorize your business?
+Select the option that best describes how you interact with your audience and
+what they come to you for. This helps brands learn more about your business.
+
+[ ] Social Influencer
+    My audience follows me for entertainment, education and community, and they
+    engage with social-native content that we produce.
+
+[ ] Content/Reviews
+    My audience comes to my properties to learn more about specific products or
+    product categories, find gift ideas, read reviews, and make informed
+    purchasing decisions.
+
+[ ] Loyalty/Rewards
+    My audience receives compensation (monetary or otherwise) when they make
+    purchases and I help connect them to those rewards.
+
+[ ] Deal/Coupons
+    My audience relies on us for to save money and make savvy purchasing
+    decisions. We present coupons, vouchers and/or discounts on this property.
+
+[ ] Email/Newsletter
+    My audience subscribes to regular communications bringing together valuable
+    content, discounts, and other information.
+
+[ ] Search/Comparison
+    My audience uses our platform to discover and compare products, services, or
+    prices across multiple vendors, helping them find the best options and make
+    informed decisions based on their specific needs and preferences.
+
+[ ] Network
+    We bring together a range of publishers to allow advertisers access to the
+    audiences they are looking for.
+
+[X] Technology Solution        (selected)
+    We provide innovative technological solutions that enhance the customer
+    experience and drive conversions through various touchpoints, including (but
+    not limited to) ticketing integrations, post-checkout offers, retargeting
+    tools, or embedded software solutions.
+
+[ ] Cross-Audience Monetization
+    My audience receives compensation (monetary and/or otherwise) when they
+    purchase products and I link them to similar, noncompeting products for
+    other brands.
+
+[ Continue ]
